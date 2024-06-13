@@ -1,6 +1,7 @@
 # SOKSHA-z-Gemini-Pro
 Chatbot using Gemini-Pro LLM
-Streamlit URL - https://soksha-z-gemini-pro.streamlit.app/
+# Streamlit URL - 
+https://soksha-z-gemini-pro.streamlit.app/
 
 # Description
 SOKSHA'z Gemini-Pro is a cutting-edge chatbot engineered with the powerful capabilities of Python, Streamlit, and Google's Gemini Pro Large Language Model (LLM). This advanced chatbot is designed to deliver exceptional conversational experiences, engaging users in natural, fluid, and informative dialogues. Leveraging the sophisticated language processing abilities of the Gemini Pro LLM, Gemini-Pro can understand and respond to a wide array of queries with remarkable accuracy and context-awareness, making it an invaluable tool for businesses and individuals seeking intelligent conversational agents.
